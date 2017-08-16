@@ -1,4 +1,4 @@
 
 //comment by sivaji more by sivaji another sivaji
-//second merge conflict
+//checking merge conflict on wednesday
 first test file adding some text
