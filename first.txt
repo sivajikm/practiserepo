@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 //comment by sivaji
+=======
+//comment
+>>>>>>> 976e6ab199e8e70062e6edac59ab6500a4ce5bdf
 first test file adding some text
