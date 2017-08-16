@@ -1,1 +1,2 @@
+//comment
 first test file adding some text
