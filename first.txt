@@ -1,1 +1,2 @@
 Checking the conflict and merge using p4merge tool
+Another test for conflict
