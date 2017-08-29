@@ -1,7 +1,1 @@
-
-//comment by sivaji more by sivaji another sivaji
-//checking merge conflict on wednesday
-first test file adding some text
-
-adding to verify the merget anc onfligt
-added by sivaji
+Checking the conflict and merge using p4merge tool
