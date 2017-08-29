@@ -1,1 +1,1 @@
-I don't care what third repo committed.. i wanna commit my own..
+Checking the conflict and merge using p4merge tool
