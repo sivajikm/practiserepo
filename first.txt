@@ -1,3 +1,4 @@
 Checking the conflict and merge using p4merge tool
 Another test for conflict
+hi how are ya
 who cares about secondrepo
